@@ -79,7 +79,7 @@ class CurrentAccount extends Account{
 
     public String toString()
     {
-        return "Current Account No: "+getAccountNo()+ "Balance: "+balance+ "Overdraft limit: "+overdraftlimit;
+        return "Current Account No: "+getAccountNo()+ " Balance: "+balance+ " Overdraft limit: "+overdraftlimit;
     }
 
 }
