@@ -82,7 +82,7 @@ class SavingAccount extends Account{
 
     public String toString()
     {
-      return "Saving Account No: "+getAccountNo()+ "Balance: "+balance;
+      return "Saving Account No: "+getAccountNo()+ " Balance: "+balance;
     }
 
 }
