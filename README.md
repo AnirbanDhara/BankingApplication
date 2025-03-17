@@ -24,7 +24,8 @@ The following UML class diagram illustrates the structure of the Banking Applica
 
 The diagram also showcases inheritance arrows from `Account` to `SavingAccount` and `CurrentAccount`, and associations between `Bank`, `Customer`, and `Account`.
 
-![UML Class Diagram](./A_realistic_and_clean_UML_class_diagram_for_a_Java.png)
+![image](https://github.com/user-attachments/assets/c2c3ed5f-57ae-43cb-8273-14ae223a8da0)
+
 
 ## Features
 
