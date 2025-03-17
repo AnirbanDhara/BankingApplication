@@ -55,7 +55,6 @@ The diagram also showcases inheritance arrows from `Account` to `SavingAccount` 
 
 ## Future Enhancements
 
-- Implement transaction handling (deposits, withdrawals).
 - Add exception handling for invalid inputs.
 - Introduce file-based persistence for data storage.
 
